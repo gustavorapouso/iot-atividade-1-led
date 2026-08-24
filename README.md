@@ -1,4 +1,4 @@
-# iot-exemplo-repositorio
+# 1-iot-atividade-led
 
 Discente: Gustavo Henrique Rapouso
 
